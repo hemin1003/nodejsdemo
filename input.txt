@@ -1,0 +1,4 @@
+this is input.txt file
+hello world
+世
+界，你好

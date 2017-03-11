@@ -3,7 +3,7 @@ var data = "this is node write test";
 
 var writerStream = fs.createWriteStream("output.txt");
 
-writereStream.write(data, "UTF8");
+writerStream.write(data, "UTF8");
 
 writerStream.end();
 

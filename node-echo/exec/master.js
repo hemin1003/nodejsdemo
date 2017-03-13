@@ -1,3 +1,4 @@
+//child_process.exec 使用子进程执行命令，缓存子进程的输出，并将子进程的输出以回调函数参数的形式返回。
 const fs = require('fs');
 const child_process = require('child_process');
 
